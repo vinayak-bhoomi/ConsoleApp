@@ -10,6 +10,9 @@ namespace BusinessLayer
         static void Main(string[] args) {
 
             Console.WriteLine("Created new app");
+            Console.WriteLine("My Main App");
+
+            Console.ReadKey();
         }
     }
 }
