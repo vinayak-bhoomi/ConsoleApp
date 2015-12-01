@@ -8,11 +8,11 @@ namespace BusinessLayer
     class Program
     {
         static void Main(string[] args) {
+            Console.WriteLine("Added New Functinality in report");
+        }
 
-            Console.WriteLine("Created new app");
-            Console.WriteLine("My Main App");
-
-            Console.ReadKey();
+        public static void getinfo() { 
+        
         }
     }
 }
