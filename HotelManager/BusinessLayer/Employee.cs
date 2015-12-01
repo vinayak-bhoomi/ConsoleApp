@@ -5,11 +5,7 @@ using System.Text;
 
 namespace BusinessLayer
 {
-    class Program
+    class Employee
     {
-        static void Main(string[] args) {
-
-            Console.WriteLine("Created new app");
-        }
     }
 }
