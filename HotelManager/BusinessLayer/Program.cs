@@ -14,5 +14,9 @@ namespace BusinessLayer
         public static void getinfo() { 
         
         }
+
+        public void ShowResponsiveScreen() { 
+        
+        }
     }
 }
